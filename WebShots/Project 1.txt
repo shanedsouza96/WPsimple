@@ -1,0 +1,32 @@
+Add link to post title
+<article inside while loop with class="post" for css
+Add Read more link below content with class="button" for css
+Create single.php, copypaste index.php del title link, read more
+Add style to meta
+Create functions.php with function for featured image add action
+Add thumbnil to index.php and single.php
+Make the excerpt and set length in functions.php
+
+PAGES & MENUS
+Create a page in admin About & Services
+For menu in "theme setup function", register it here
+Set menu in admin
+Include menu in header.php
+Create page.php copypaste index.php and make changes
+
+WIDGETS
+Create "sidebar" div after "main" div, in index.php
+Creat div of class "clr" below sidebar div
+Add float to main div and sidebar div
+Put container div above main and end before get_footer();
+to put widgets add in functions.php and register
+Add widget in admin
+add in index.php
+style .side-widget
+make changes in page.php again by seeing index.php
+Make same changes in single.php
+Can remove sidebar from all pages and paste in top of footer.php
+For comments go to single.php after THE LOOP endif;
+Make author name alink in index.php
+
+
